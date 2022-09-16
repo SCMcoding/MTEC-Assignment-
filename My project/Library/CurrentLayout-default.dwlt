@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 368.59802, y: 106.79657, z: 205.62692}
+    m_Target: {x: 435.08264, y: 129.9553, z: 183.39565}
     speed: 2
-    m_Value: {x: 368.59802, y: 106.79657, z: 205.62692}
+    m_Value: {x: 435.08264, y: 129.9553, z: 183.39565}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,20 +508,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0070132543, y: -0.8605589, z: 0.50921106, w: 0.011874203}
+    m_Target: {x: -0.08796652, y: -0.8807079, z: 0.42902863, w: -0.18054964}
     speed: 2
-    m_Value: {x: -0.0070132543, y: 0.86055887, z: -0.50921106, w: -0.011874202}
+    m_Value: {x: -0.08823508, y: -0.88004214, z: 0.43033883, w: -0.18041313}
   m_Size:
-    m_Target: 375.50482
+    m_Target: 511.596
     speed: 2
-    m_Value: 375.50482
+    m_Value: 489.56555
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.30084994
-    m_SpeedNormalized: 0.14999998
+    m_Speed: 0.18090995
+    m_SpeedNormalized: 0.089999974
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -585,7 +585,8 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Welch Computer\Lanscape-MTEC-Project\My project
+  m_LastProjectPath: C:\Samuel\Fall Semester 2022\MTEC 2120\Assignments\MTEC-Assignment-\My
+    project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
